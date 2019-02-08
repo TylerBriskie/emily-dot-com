@@ -1,0 +1,13 @@
+.site-nav-container {
+  width: 80vw;
+  ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style-type: none;
+    li {
+      padding: 2em 3em;
+      font-size: 75%;
+    }
+  }
+}
