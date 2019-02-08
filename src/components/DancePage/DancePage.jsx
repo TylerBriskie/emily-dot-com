@@ -12,8 +12,10 @@ class DancePage extends Component {
 
     render(){
         return (
-            <h1>DancePage, coming soon</h1>
-        );
+            <div id="dance-page-container">
+                <h1>Dance, coming soon</h1>
+
+            </div>                );
     }
 
 };
